@@ -1,0 +1,21 @@
+.side{
+    height:100vh;
+    width:190px;
+    background-color:blue;
+}
+ul li:hover{
+    background-color: #328dbf;
+    cursor:pointer;
+}
+body{
+    margin: 0;
+    padding:0;
+}
+.sidebarlist .row{
+    width:100%;
+    height:50px;
+    list-style-type:none;
+    display:flex;
+    align-items: center;
+    
+}
